@@ -1,5 +1,7 @@
 # 🩺 Medical Data Extraction Application
 
+![Image Alt](https://github.com/pierredeveloper/Medical-Data-Extraction/blob/717ce1a07f27c56a4013ce2de762e36c8968c77e/medical%20data%20extraction.png)
+
 A powerful Python application designed to extract meaningful medical data from unstructured prescription text using rule-based parsing techniques. It offers both a backend API built with **FastAPI** and a sleek **Streamlit** frontend interface for healthcare practitioners, researchers, and developers to interact with.
 
 ---
